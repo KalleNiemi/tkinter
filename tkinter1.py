@@ -3,6 +3,7 @@ import tkinter as tk
 TO DO
 
 Nappula mikä tallettaa textBoxista infon muuttujaan
+
 '''
 window = tk.Tk()
 window.title("Testi ikkuna")
